@@ -1,1 +1,35 @@
+Introdução ao Git e ao GitHub
 
+Comandos dos terminais
+
+Windows (shell)
+
+dir = Listar diretórios.
+cd = Navegar para diretório.
+cd .. = Retroceder para pasta anterior
+cls = Limpar terminal.
+TAB = Autocompletar.
+mkdir = Criar diretório.
+del = Deletar arquivos de um diretório.
+rmdir = Deletar diretório + arquivos.
+
+Linux (bash)
+
+ls = Listar diretórios.
+cd = Navegar para diretório.
+cd .. = Retroceder para pasta anterior
+clear ou ctrl + L = Limpar terminal.
+TAB = Autocompletar.
+mkdir = Criar diretório.
+rm -rf = Deletar diretório + arquivos.
+
+Git
+
+git init = Iniciar/Criar repositório na pasta.
+git status = Verificar estados do repositótio (ex. arquivos modified, staged)
+git add = Mover arquivo para stage
+git add . = Mover todos os arquivos modified/added para o stage
+git commit -m "" = Criar commit dos arquivos no stage
+git push = Subir repositório local para repositório remoto
+git pull = Baixar repositório remoto para repositório local
+git remote add origin = Faz o link de um repositório remoto no repositório local
