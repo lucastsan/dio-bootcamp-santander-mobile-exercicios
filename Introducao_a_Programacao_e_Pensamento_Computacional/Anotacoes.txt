@@ -1,0 +1,22 @@
+Pensamento Computacional
+
+- Decomposição
+- Reconhecimento de Padrões
+- Abstração
+- Design de Algoritmos
+
+Decomposição
+
+Dividir um problema complexo em subproblemas.
+
+Reconhecimento de Padrões
+
+Identificar padrões e tendências, similaridades e diferenças ou um padrão comportamental
+
+Abstração
+
+Extrapolar o conceito do problema para uma forma generalizada. Tirar do específico para o geral.
+
+Design de Algoritmos
+
+Automatizar, definir um passo a passo para a solução de um problema.
